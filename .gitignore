@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# C/C++ build outputs
+build/
+cmake-build-*/
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary report files (正式报告保留)
+reports/*.tmp
