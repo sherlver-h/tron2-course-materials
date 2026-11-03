@@ -1,0 +1,8 @@
+# group-02 运行产物
+results/
+scenes/
+*.events.json
+device_A.json
+sdk_result*.json
+src/python/vision/official/meshes/
+# 官方STL模型(51MB)按教师要求不进仓库，需从课程环境 Course_Code/vision_examples/official/meshes 复制

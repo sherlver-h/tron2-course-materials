@@ -1,0 +1,24 @@
+{
+  "url": "ws://10.192.1.2:5000",
+  "accid": "FILL_SN_FROM_10.192.1.2:8080",
+  "robot_model": "FILL_FROM_ROBOT_INFO_PAGE",
+  "firmware_version": "FILL_FROM_VERSION_PAGE",
+  "mode": "high_level",
+  "mode_confirmed": false,
+  "arm_state_names": [],
+  "state_order": null,
+  "joint_limits_rad": [
+    [-3.14159, 2.6005], [0.0, 2.96706], [-3.66519, 1.4835], [-2.61799, 0.2618],
+    [-1.7453, 1.39626], [-0.7505, 0.7505], [-0.7505, 0.7505],
+    [-3.14159, 2.6005], [-2.96706, 0.0], [-1.4835, 3.66519], [-2.61799, 0.2618],
+    [-1.3963, 1.7453], [-0.7505, 0.7505], [-0.7505, 0.7505]
+  ],
+  "first_pose_tolerance_rad": 0.05,
+  "arrival_tolerance_rad": 0.02,
+  "arrival_speed_rad_s": 0.05,
+  "max_segment_delta_rad": 0.1,
+  "min_segment_s": 5.0,
+  "response_timeout_s": 5.0,
+  "arrival_timeout_s": 20.0,
+  "gripper": {"enabled": false, "type": "limx_2fclaw", "speed": 30, "force": 20}
+}

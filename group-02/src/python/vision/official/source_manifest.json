@@ -1,0 +1,207 @@
+[
+  {
+    "path": "official/xml/robot_grasper.xml",
+    "sha256": "dc4dffe0c6067822adb26a8319e13913a470a10bec0a096f9e15345e1f2147f7",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/base_Link.STL",
+    "sha256": "25b6fc44a8455e116c24ca636628f648426c26ad9b2903d10719ca387f999abc",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/base_2_Link.STL",
+    "sha256": "0949b4cc8fe9908e42cadbd700b20248b813e216e37c36b4c5ed3c05f2132659",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/base_3_Link.STL",
+    "sha256": "e97bbbb149445b4ce2a7df2589b53ac03045c0386e64590eb2efc5d3524c2fce",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/head_base_Link.STL",
+    "sha256": "e6b25387d68c6f04d6dcd02921ba1f3c4dcec0643d1ef7c0695c25edc45efb06",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/head_yaw_Link.STL",
+    "sha256": "de86690ddec7325c3ba475b793ef0553451c497fc7f0debe65b249ba014b7a52",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/head_pitch_Link.STL",
+    "sha256": "dc4b2b780fddbf176694181c7c4b8ef532fc78eb8f8cf2f08b6ab26add131481",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_pitch_L_Link.STL",
+    "sha256": "171103f1f263229576012211466e138c99dccc5a8550d5d3492c2f94e82fadac",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_roll_L_Link.STL",
+    "sha256": "c416c88546061b0cd1a4500e327af0bc9f7cac0f8ef500ff86b63bf72d37ec86",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_yaw_L_Link.STL",
+    "sha256": "8e5253aed24455af89b99b253b102c1f71049375a1b7ad11fba32ef27339cde1",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_yaw_L_Link_collision.STL",
+    "sha256": "f2b044dde500d8cbdbdfc91aecbe48520488d739685396d1e6ce8b865be76df8",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/elbow_L_Link.STL",
+    "sha256": "46497ab102b97d2ab6989fe045d3a9f1a2643d550b05e2a4c4b064eb550a1857",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_yaw_L_Link.STL",
+    "sha256": "4124b79f0550554c60a604002fe7d86945de937d38040cac44ff5d7e772115ec",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_pitch_L_Link.STL",
+    "sha256": "8aedb74d479b723b522395d8d4684ebeb1d17468a785442ccdd7e725082071d6",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_roll_L_Link.STL",
+    "sha256": "3dd3da5518daef34c5b085c0bd774090967634d49de0c4a5b59d2f9fd84014f2",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_roll_L_Link_collision.STL",
+    "sha256": "bcf56e6ce5a65bae40b6becfbe83c341a34556c516e686c0c2fdd943d3da6ca5",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_base_Link.STL",
+    "sha256": "bb0e89dc002053dd3849a1f5fe4f7255ce35de1ecd7799d3e871817d8951782f",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_jaw_left_Link.STL",
+    "sha256": "4c1d5ee96ef0a7470a8f738a1abaf55e4f5943d3fe9583c70f5ee5861bd5317e",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_jaw_right_Link.STL",
+    "sha256": "67b49ab3f4583531cd1eddd4ec20d86b9c37f3850de39849e3005968631ac85d",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_bar_left_Link.STL",
+    "sha256": "5dca943de0fc3567245277296294d788cfec53eb73bb803c45489c7064bb2c93",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_bar_right_Link.STL",
+    "sha256": "bf880866efbb1647fbb0f09e41a11cad0c78ce1c25f989268a3093661f3ee56f",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_crank_left_Link.STL",
+    "sha256": "7500bb4a11c78a155e732368a505205ee11597d4e03141bfaf38ba09dc7c39eb",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_crank_right_Link.STL",
+    "sha256": "49587d72df746f80a2b2aa5590a639028b6b66ad65a99812288c0d37f2d64105",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_L_nut_Link.STL",
+    "sha256": "72962c0f02bf6c10101a067ac3c80ccb7ebc60ff7526e1c91c0d09b86b5ebfb7",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_pitch_R_Link.STL",
+    "sha256": "4740dbcf4899717de6fb8adf11766f163679ecee0fdf8a6ec06f6bdf9f8bcf7c",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_roll_R_Link.STL",
+    "sha256": "be9df467853b4c12938c7e80b95e7a7542506019d321291481b9967a050a6204",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_yaw_R_Link.STL",
+    "sha256": "e2dc549ce47bb1fb833b0dfe5aa2a29c25f89a581fda343d3b2726cce0c27995",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/proximal_yaw_R_Link_collision.STL",
+    "sha256": "697b41afc439a30e0fb51bfcf7ffdce4d3da8bf3a20ce64846254bba58adb487",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/elbow_R_Link.STL",
+    "sha256": "956b51d6896448839193224a7fbb07ec3660dd4601f97caf2c1a87192a443d7e",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_yaw_R_Link.STL",
+    "sha256": "a22e01ab09be564b16685ca00c263561ee781bfe11c08d84519f300a307a7969",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_pitch_R_Link.STL",
+    "sha256": "c16046ed84cecd27ac1ddf1ba5c3ae3e63cc2a006dd00097a97a7cadb5b8b763",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_roll_R_Link.STL",
+    "sha256": "ca68b01599b1cb941ceec2f7cc106cc7926b023ad884cf1cfc69ec3ca40367c9",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/wrist_roll_R_Link_collision.STL",
+    "sha256": "7f750db7fdcfd687d40766759c4d5e9702289d1e05fe6000cf7f286a99ea5661",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_base_Link.STL",
+    "sha256": "522fab368638368f269c233595f72aa00e4c9e3fac4d6e70ae7d756495b0c62f",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_jaw_left_Link.STL",
+    "sha256": "c019ae505fc6ff542f33dc34b9cfa136f6d07d864af470d5b5102e640c25fb00",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_jaw_right_Link.STL",
+    "sha256": "950b79d1c38fe66d9898f6772280508be540f84520844b3eea5c983f753b3ad1",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_bar_left_Link.STL",
+    "sha256": "a8c2ace5b24848703468f070b1570d5291d081014f0d8e934b531fe1eeab43e5",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_bar_right_Link.STL",
+    "sha256": "c51c07d066276a5ffd189d283c990b0e4167ba4566e1cc0f81306a0a6ba47ba7",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_crank_left_Link.STL",
+    "sha256": "139ddc8bb06a62d29b2c4f3152b818668aeb1bd207c4a1ea3ec01c3e2b4b2f56",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_crank_right_Link.STL",
+    "sha256": "0d880831cf6807acdc90d86fde38a2db1f948c49a1b1556d5051959383016913",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  },
+  {
+    "path": "official/meshes/grasper_R_nut_Link.STL",
+    "sha256": "a8aebfe8c08ccba07b25609591f9191e429477d06282a2b1be690f4eac115462",
+    "upstream": "https://github.com/limxdynamics/tron2_manipulation_controller"
+  }
+]
