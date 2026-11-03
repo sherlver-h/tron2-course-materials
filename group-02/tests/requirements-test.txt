@@ -1,0 +1,2 @@
+-r ../src/python/robot/requirements.txt
+websockets==15.0.1
